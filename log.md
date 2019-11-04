@@ -1,11 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 1: 4.November 2019 (Example 1)
+### Day 1: 4-November-2019
 
 
 **Today's Progress**: Passed all parts of Responsive Web Design section
 
-**TODO:** I should fix previous RWD projects.
+**TODO:** Fix previous RWD projects.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
