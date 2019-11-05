@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - My Progress
 
 ### Day 1: 4-November-2019
 
@@ -15,6 +15,7 @@
 **Today's Progress**: Practicing CSS Grid
 
 **Thoughts**: Although grid layout can be tricky, I find it very convinient for some sort of 2D layout. 
+
 **TODO**: Survey Form using Grid Layout
 
 **Link(s) to work**: [Blog Post](https://codepen.io/simin_ana/pen/OGyQVY)
