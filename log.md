@@ -7,16 +7,17 @@
 
 **TODO:** Fix previous RWD projects.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Tribute Page](https://codepen.io/simin_ana/pen/MRwyVV)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2:  5-November-2019
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: Practicing CSS Grid
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: Although grid layout can be tricky, I find it very convinient for some sort of 2D layout. 
+**TODO**: Survey Form using Grid Layout
+
+**Link(s) to work**: [Blog Post](https://codepen.io/simin_ana/pen/OGyQVY)
 
 
 ### Day 1: June 27, Monday
