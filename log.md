@@ -9,6 +9,8 @@
 
 **Link to work:** [Tribute Page](https://codepen.io/simin_ana/pen/MRwyVV)
 
+
+
 ### Day 2:  5-November-2019
 
 
@@ -19,6 +21,29 @@
 **TODO**: Survey Form using Grid Layout
 
 **Link(s) to work**: [Blog Post](https://codepen.io/simin_ana/pen/OGyQVY)
+
+
+
+### Day 3: 6-November-2019
+
+**Today's Progress**: Finish all FCC Challengess for **Responsive Web Design** certification
+
+**CSS LEARNING PROGRESS** 
+- [x] CSS Flex 
+- [x] CSS Grid
+- [x] Bootstrap
+- [ ] SASS
+- [ ] Animations
+- [ ] Transitions & Transforms
+- [ ] Hamburger Menu
+
+
+
+**Link(s) to work**
+1. [Survey Form](https://codepen.io/simin_ana/pen/mddXZew)
+2. [Product Landing Page](https://codepen.io/simin_ana/pen/JjjLXqj)
+3. [Technical Documentation Page](https://codepen.io/simin_ana/pen/mgVjNR)
+4. [Personal Portfolio Webpage](https://codepen.io/simin_ana/pen/KYNPMx)
 
 
 ### Day 1: June 27, Monday
