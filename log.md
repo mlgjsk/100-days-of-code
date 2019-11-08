@@ -37,13 +37,10 @@
 - [ ] Transitions & Transforms
 - [ ] Hamburger Menu
 
+### Day 4: 7-November-2019, Monday
 
+**Today's Progress**: I've practice SASS with node-sass. Nice change from `Prepros` app.
 
-**Link(s) to work**
-1. [Survey Form](https://codepen.io/simin_ana/pen/mddXZew)
-2. [Product Landing Page](https://codepen.io/simin_ana/pen/JjjLXqj)
-3. [Technical Documentation Page](https://codepen.io/simin_ana/pen/mgVjNR)
-4. [Personal Portfolio Webpage](https://codepen.io/simin_ana/pen/KYNPMx)
 
 
 ### Day 1: June 27, Monday
