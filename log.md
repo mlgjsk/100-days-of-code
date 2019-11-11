@@ -41,6 +41,9 @@
 
 **Today's Progress**: I've practice SASS with node-sass. Nice change from `Prepros` app.
 
+### Day 5-8: 8-11-November-2019, Friday-Monday
+
+**Today's Progress**: I've practice SASS using **Live SASS Compiler** extension for VS Code. It seems that there is an issue with image url's, because it cannot display images at all. Unnecessary waste of time.
 
 
 ### Day 1: June 27, Monday
