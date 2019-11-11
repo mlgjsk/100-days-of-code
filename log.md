@@ -20,7 +20,7 @@
 
 **TODO**: Survey Form using Grid Layout
 
-**Link(s) to work**: [Blog Post](https://codepen.io/simin_ana/pen/OGyQVY)
+**Link(s) to work**: [Survey Form](https://codepen.io/simin_ana/pen/OGyQVY)
 
 
 
