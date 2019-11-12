@@ -47,7 +47,9 @@
 
 ### Day 9: 12-November-2019, Tuesday
 
-**Today's Progress**: Fixed sass errors in my project, and learned how to use `node-sass`. 
+**Today's Progress**: 
+ - [x] Fixed sass errors in my project
+ - [x] Learned how to use `node-sass`. Inside 
 `package.json` file:
 
 ```
