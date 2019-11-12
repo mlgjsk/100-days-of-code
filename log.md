@@ -27,6 +27,7 @@
 ### Day 3: 6-November-2019
 
 **Today's Progress**: Finish all FCC Challengess for **Responsive Web Design** certification
+
 **Link(s) to work**: [Landing Page - Ars - Artist Supplies](https://codepen.io/simin_ana/pen/JjjLXqj)
 
 **CSS LEARNING PROGRESS** 
