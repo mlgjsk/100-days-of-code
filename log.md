@@ -55,8 +55,9 @@
 ```
 "scripts": {
     "test": "npm run --w"
-  },
+ }
   ```
+  Then run this command every time new project is made, or changes occured.
 
 
 
