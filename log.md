@@ -45,6 +45,18 @@
 
 **Today's Progress**: I've practice SASS using **Live SASS Compiler** extension for VS Code. It seems that there is an issue with image url's, because it cannot display images at all. Unnecessary waste of time.
 
+### Day 9: 12-November-2019, Tuesday
+
+**Today's Progress**: Fixed sass errors in my project, and learned how to use `node-sass`. 
+`package.json` file:
+
+```
+"scripts": {
+    "test": "npm run --w"
+  },
+  ```
+
+
 
 ### Day 1: June 27, Monday
 
