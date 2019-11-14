@@ -39,15 +39,18 @@
 - [ ] Transitions & Transforms
 - [ ] Hamburger Menu
 
-### Day 4: 7-November-2019, Monday
+
+### Day 4: 7-November-2019
 
 **Today's Progress**: I've practice SASS with node-sass. Nice change from `Prepros` app.
 
-### Day 5-8: 8-11-November-2019, Friday-Monday
+
+### Day 5-8: 8-11-November-2019
 
 **Today's Progress**: I've practice SASS using **Live SASS Compiler** extension for VS Code. It seems that there is an issue with image url's, because it cannot display images at all. Unnecessary waste of time.
 
-### Day 9: 12-November-2019, Tuesday
+
+### Day 9: 12-November-2019
 
 **Today's Progress**: 
  - [x] Fixed sass errors in my project
@@ -62,4 +65,19 @@
   Then run this command every time new project is made, or changes occured.
 
 
+### Day 10 & 11: 13 & 14-November-2019, Tuesday
 
+**Today's Progress**: 
+
+ - Working on Restaurant Site for the last 2 days
+ 
+ **DONE**
+ - [x] Navigation
+ - [x] Hamburger Menu
+ - [x] Gallery
+ - [x] Footer
+ 
+ **TODO**
+ - [ ] Media Queries
+
+**Link to work:** [Restaurant Site](https://github.com/mlgjsk/Restaurant-Site)
