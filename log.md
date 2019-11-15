@@ -65,7 +65,7 @@
   Then run this command every time new project is made, or changes occured.
 
 
-### Day 10 & 11: 13 & 14-November-2019, Tuesday
+### Day 10 & 11: 13 & 14-November-2019
 
 **Today's Progress**: 
 
@@ -81,3 +81,18 @@
  - [ ] Media Queries
 
 **Link to work:** [Restaurant Site](https://github.com/mlgjsk/Restaurant-Site)
+
+### Day 12: 15-November-2019
+
+**Today's Progress**:
+
+I've finished responsive part of the Restaurant site. I included in my project:
+
+- @mixin
+- @extends
+- @function
+
+ **DONE**
+ - [x] Media Queries
+
+**Thoughts**: *Working with media queries is much simplier in pure CSS. With SASS, every element has it's own section with media queries, so the result is - media queries all over the place... Just my thoughts..
