@@ -16,7 +16,7 @@
 
 **Today's Progress**: Practicing CSS Grid
 
-**Thoughts**: Although grid layout can be tricky, I find it very convinient for some sort of 2D layout. 
+**Thoughts**: *Although grid layout can be tricky, I find it very convinient for some sort of 2D layout.*
 
 **TODO**: Survey Form using Grid Layout
 
@@ -95,4 +95,4 @@ I've finished responsive part of the Restaurant site. I included in my project:
  **DONE**
  - [x] Media Queries
 
-**Thoughts**: *Working with media queries is much simplier in pure CSS. With SASS, every element has it's own section with media queries, so the result is - media queries all over the place... Just my thoughts..
+**Thoughts**: *Working with media queries is much simplier in pure CSS. With SASS, every element has it's own section with media queries, so the result is - media queries all over the place... Just my thoughts..*
