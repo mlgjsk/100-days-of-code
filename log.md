@@ -109,4 +109,4 @@ I've learned:
 - [x] SASS Loops (**for** loop and **each** loop) and
 - [x] SASS Conditions (if directive)
 
-**Link to work:**[]()
+**Link to work:**[Advanced SASS - GitHub](https://github.com/mlgjsk/Advanced-SASS)
