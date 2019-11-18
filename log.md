@@ -96,3 +96,17 @@ I've finished responsive part of the Restaurant site. I included in my project:
  - [x] Media Queries
 
 **Thoughts**: *Working with media queries is much simplier in pure CSS. With SASS, every element has it's own section with media queries, so the result is - media queries all over the place... Just my thoughts..*
+
+
+### Day 13: 17-November-2019
+
+**Today's Progress**: 
+
+I've learned:
+
+- [x] SASS Data Types
+- [x] SASS String Interpolation
+- [x] SASS Loops (**for** loop and **each** loop) and
+- [x] SASS Conditions (if directive)
+
+**Link to work:**[]()
