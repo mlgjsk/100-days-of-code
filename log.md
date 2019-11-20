@@ -109,7 +109,9 @@ I've learned:
 - [x] SASS Loops (**for** loop and **each** loop) and
 - [x] SASS Conditions (if directive)
 
-**Link to work: **[Advanced SASS - GitHub](https://github.com/mlgjsk/Advanced-SASS)
+**Thoughts**: Although the SASS can be very useful, especially when it comes to variables and functions, I find it somewhat robust with all partial files needed for one sass file that will finally render to CSS. Media queries are also hard to track because they should be placed inside the element. So far, SASS is not my favorite styling option.
+
+**Link to work:** [Advanced SASS - GitHub](https://github.com/mlgjsk/Advanced-SASS)
 
 ### Day 14: 19-November-2019
 
@@ -117,4 +119,13 @@ I've learned:
 
 I've created a simple bootstrap website. My goal was to practice working with bootstrap classes before I move on to more complex solutions.
 
-**Link to work: **[Simple Bootstrap Website](https://github.com/mlgjsk/Bootstrap-Practice)
+**Link to work:** [Simple Bootstrap Website](https://github.com/mlgjsk/Bootstrap-Practice)
+
+
+### Day 15: 20-November-2019
+
+**Today's Progress**: 
+
+Today I created **Admin Dashboard** using bootstrap, and custom css.
+
+**Link to work:** [Admin Dashboard - Bootstrap](https://github.com/mlgjsk/Admin-Dashboard)
