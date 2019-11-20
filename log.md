@@ -109,7 +109,7 @@ I've learned:
 - [x] SASS Loops (**for** loop and **each** loop) and
 - [x] SASS Conditions (if directive)
 
-**Link to work:**[Advanced SASS - GitHub](https://github.com/mlgjsk/Advanced-SASS)
+**Link to work: **[Advanced SASS - GitHub](https://github.com/mlgjsk/Advanced-SASS)
 
 ### Day 14: 19-November-2019
 
@@ -117,4 +117,4 @@ I've learned:
 
 I've created a simple bootstrap website. My goal was to practice working with bootstrap classes before I move on to more complex solutions.
 
-**Link to work:**[Simple Bootstrap Website](https://github.com/mlgjsk/)
+**Link to work: **[Simple Bootstrap Website](https://github.com/mlgjsk/Bootstrap-Practice)
