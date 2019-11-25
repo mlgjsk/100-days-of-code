@@ -129,3 +129,10 @@ I've created a simple bootstrap website. My goal was to practice working with bo
 Today I created **Admin Dashboard** using bootstrap, and custom css.
 
 **Link to work:** [Admin Dashboard - Bootstrap](https://github.com/mlgjsk/Admin-Dashboard)
+
+
+### Day 16: 25-November-2019
+
+**Today's Progress**: 
+
+I've finished JavaScript section at W3School. At freeCodeCamp, I still have a recursion part to work on.
