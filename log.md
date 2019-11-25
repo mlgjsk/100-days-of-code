@@ -135,4 +135,4 @@ Today I created **Admin Dashboard** using bootstrap, and custom css.
 
 **Today's Progress**: 
 
-I've finished JavaScript section at W3School. At freeCodeCamp, I still have a recursion part to work on.
+I've finished JavaScript section at [W3School](https://www.w3schools.com/js/default.asp). At freeCodeCamp, I still have a recursion part to work on. Discovered that there are 2 different w3School out there - W3School.com and W3School.in..
