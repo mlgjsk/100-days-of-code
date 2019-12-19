@@ -136,3 +136,11 @@ Today I created **Admin Dashboard** using bootstrap, and custom css.
 **Today's Progress**: 
 
 I've finished JavaScript section at [W3School](https://www.w3schools.com/js/default.asp). At freeCodeCamp, I still have a recursion part to work on. Discovered that there are 2 different w3School out there - W3School.com and W3School.in..
+
+### Day 17: 19-December-2019
+
+**Today's Progress**: 
+
+Today I created **Furniture Store website** using css grid.
+
+**Link to work:** [Furniture Store - CSS Grid](https://github.com/mlgjsk/FurnitureStore)
